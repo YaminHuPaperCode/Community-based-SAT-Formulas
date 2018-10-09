@@ -1,1 +1,0 @@
-# Community-based-SAT-Formulas
